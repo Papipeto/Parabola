@@ -1,2 +1,2 @@
 # Parabola
-Study on how to display parabolas on canvas.
+Study on the trajectory of a projectile depending on the wind, the power and the angle of the shot.
