@@ -8,3 +8,8 @@ canvas#canvas {
 	margin: auto;
 	display: block;
 }
+
+#menu {
+	float: left;
+	width: 250px;
+}
